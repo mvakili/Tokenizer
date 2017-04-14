@@ -1,0 +1,9 @@
+C:\Users\MV\Desktop\NLP\NormalizerTest\bin\Debug\NormalizerTest.dll
+C:\Users\MV\Desktop\NLP\NormalizerTest\bin\Debug\NormalizerTest.pdb
+C:\Users\MV\Desktop\NLP\NormalizerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MV\Desktop\NLP\NormalizerTest\bin\Debug\Normalizer.dll
+C:\Users\MV\Desktop\NLP\NormalizerTest\bin\Debug\Normalizer.pdb
+C:\Users\MV\Desktop\NLP\NormalizerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\MV\Desktop\NLP\NormalizerTest\obj\Debug\NormalizerTest.csprojResolveAssemblyReference.cache
+C:\Users\MV\Desktop\NLP\NormalizerTest\obj\Debug\NormalizerTest.dll
+C:\Users\MV\Desktop\NLP\NormalizerTest\obj\Debug\NormalizerTest.pdb

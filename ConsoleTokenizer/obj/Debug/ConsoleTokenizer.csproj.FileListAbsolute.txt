@@ -1,0 +1,52 @@
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe.config
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.pdb
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.csprojResolveAssemblyReference.cache
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.exe
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.pdb
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe.config
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.exe
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.pdb
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.pdb
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.csprojResolveAssemblyReference.cache
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\EntityFramework.dll
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\EntityFramework.xml
+C:\Users\MV\Desktop\Hadi\ConsoleTokenizer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe.config
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.exe
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.pdb
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.pdb
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.dll
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\Tokenizer.dll
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.xml
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.csprojResolveAssemblyReference.cache
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\Normalizer.dll
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\Normalizer.pdb
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MV\Desktop\NLP\ConsoleTokenizer\bin\Debug\Newtonsoft.Json.xml
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe.config
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.exe
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\ConsoleTokenizer.pdb
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.dll
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\Newtonsoft.Json.dll
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\Tokenizer.dll
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\Normalizer.dll
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\Tokenizer.pdb
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.xml
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\Newtonsoft.Json.xml
+E:\Academic\NLP\NLP\ConsoleTokenizer\bin\Debug\Normalizer.pdb
+E:\Academic\NLP\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.csprojResolveAssemblyReference.cache
+E:\Academic\NLP\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.exe
+E:\Academic\NLP\NLP\ConsoleTokenizer\obj\Debug\ConsoleTokenizer.pdb

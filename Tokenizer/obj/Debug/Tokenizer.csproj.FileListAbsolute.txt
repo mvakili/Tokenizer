@@ -1,0 +1,28 @@
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\Tokenizer\bin\Debug\Tokenizer.dll
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\Tokenizer\obj\Debug\Tokenizer.dll
+C:\Users\MV\Documents\Visual Studio 2015\Projects\NLP\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\Hadi\Tokenizer\bin\Debug\Tokenizer.dll
+C:\Users\MV\Desktop\Hadi\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\Hadi\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\MV\Desktop\Hadi\Tokenizer\obj\Debug\Tokenizer.dll
+C:\Users\MV\Desktop\Hadi\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\NLP\Tokenizer\bin\Debug\Tokenizer.dll
+C:\Users\MV\Desktop\NLP\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\NLP\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\MV\Desktop\NLP\Tokenizer\obj\Debug\Tokenizer.dll
+C:\Users\MV\Desktop\NLP\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\MV\Desktop\NLP\Tokenizer\bin\Debug\Normalizer.dll
+C:\Users\MV\Desktop\NLP\Tokenizer\bin\Debug\Normalizer.pdb
+C:\Users\MV\Desktop\NLP\Tokenizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MV\Desktop\NLP\Tokenizer\bin\Debug\Newtonsoft.Json.xml
+E:\Academic\NLP\NLP\Tokenizer\bin\Debug\Tokenizer.dll
+E:\Academic\NLP\NLP\Tokenizer\bin\Debug\Tokenizer.pdb
+E:\Academic\NLP\NLP\Tokenizer\bin\Debug\Newtonsoft.Json.dll
+E:\Academic\NLP\NLP\Tokenizer\bin\Debug\Normalizer.dll
+E:\Academic\NLP\NLP\Tokenizer\bin\Debug\Normalizer.pdb
+E:\Academic\NLP\NLP\Tokenizer\bin\Debug\Newtonsoft.Json.xml
+E:\Academic\NLP\NLP\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+E:\Academic\NLP\NLP\Tokenizer\obj\Debug\Tokenizer.dll
+E:\Academic\NLP\NLP\Tokenizer\obj\Debug\Tokenizer.pdb

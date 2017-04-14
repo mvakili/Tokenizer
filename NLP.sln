@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokenizer", "Tokenizer\Tokenizer.csproj", "{82A1A08D-6906-4024-810E-C9BB2F560DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTokenizer", "ConsoleTokenizer\ConsoleTokenizer.csproj", "{3848AB19-8FB9-4765-AE28-A4DBDEFE78F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormalizerTest", "NormalizerTest\NormalizerTest.csproj", "{4BBB354A-343A-4EA0-9569-A9255AC0AA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextNormalizer", "TextNormalizer\TextNormalizer.csproj", "{82C12B87-5601-41EA-8752-E91CA9AB26A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A1A08D-6906-4024-810E-C9BB2F560DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A1A08D-6906-4024-810E-C9BB2F560DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A1A08D-6906-4024-810E-C9BB2F560DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A1A08D-6906-4024-810E-C9BB2F560DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3848AB19-8FB9-4765-AE28-A4DBDEFE78F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3848AB19-8FB9-4765-AE28-A4DBDEFE78F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3848AB19-8FB9-4765-AE28-A4DBDEFE78F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3848AB19-8FB9-4765-AE28-A4DBDEFE78F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBB354A-343A-4EA0-9569-A9255AC0AA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBB354A-343A-4EA0-9569-A9255AC0AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBB354A-343A-4EA0-9569-A9255AC0AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBB354A-343A-4EA0-9569-A9255AC0AA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C12B87-5601-41EA-8752-E91CA9AB26A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C12B87-5601-41EA-8752-E91CA9AB26A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C12B87-5601-41EA-8752-E91CA9AB26A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C12B87-5601-41EA-8752-E91CA9AB26A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
